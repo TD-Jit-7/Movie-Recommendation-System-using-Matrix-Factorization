@@ -68,6 +68,13 @@ X[u] += lr * (err * W[m] - reg * X[u])
 W[m] += lr * (err * X[u] - reg * W[m])
 ```
 
+
+📂 Dataset
+
+This project uses the MovieLens Small Dataset (100k ratings) provided by GroupLens Research
+.
+
+👉 Direct link: MovieLens Latest Small Dataset (ml-latest-small.zip)
 ---
 
 
