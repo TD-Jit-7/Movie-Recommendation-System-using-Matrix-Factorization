@@ -1,7 +1,5 @@
 # Movie-Recommendation-System-using-Matrix-Factorization
 
-Perfect 👍 You can include that section in your GitHub **README.md** like this (formatted cleanly in Markdown):
-
 ---
 
 ## 📖 Main Code Overview
