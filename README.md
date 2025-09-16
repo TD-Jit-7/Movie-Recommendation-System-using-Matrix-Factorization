@@ -73,8 +73,7 @@ W[m] += lr * (err * X[u] - reg * W[m])
 
 This project uses the MovieLens Small Dataset (100k ratings) provided by GroupLens Research
 .
-
-👉 Direct link: MovieLens Latest Small Dataset (ml-latest-small.zip)
+https://grouplens.org/datasets/movielens/latest/
 ---
 
 
